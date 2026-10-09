@@ -8,7 +8,7 @@ Este repositorio contiene implementaciones de algoritmos optimizados para proces
 
 | Archivo | Lenguaje | Paradigma | Descripción |
 | :--- | :--- | :--- | :--- |
-| `Indice_invertido.py` | Python | Concurrencia (Multiprocessing) | Construcción concurrente de un índice invertido de documentos usando memoria compartida y cerrojos (`Lock`). |
+| `Indice_invertido.py` | Python (Versión 3.14)| Concurrencia (Multiprocessing) | Construcción concurrente de un índice invertido de documentos usando memoria compartida y cerrojos (`Lock`). |
 | `trabajo3.c` | C | Computación Distribuida (MPI) | Búsqueda distribuida de los $K$ vecinos más cercanos ($K$-NN) sobre vectores de alta dimensión ($1024$ características). |
 
 ---
